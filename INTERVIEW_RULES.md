@@ -25,15 +25,10 @@ token spend or subscription costs for this session.
   changes. It's fine to push back on the AI's suggestions.
 - If you finish early, polish — refactor, add tests, write docs.
 
-## Finishing
+## Live Q&A
 
-1. Run `./end.sh` from this repo's root. It stages your working tree into
-   a single git commit.
-2. Push the repo to the URL your interviewer provided:
-   ```
-   git push origin HEAD
-   ```
-3. Share the URL with your interviewer.
+The coding challenge is followed immediately by a 15-minute live Q&A
+with your interviewer.
 
 ## What we're observing
 

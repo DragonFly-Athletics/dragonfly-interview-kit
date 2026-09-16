@@ -164,11 +164,10 @@ explain it, fix it, and prove the fix.
 - **Don't gold-plate.** This is not a production system. We're not grading
   polish.
 
-## Finishing the session
+## Live Q&A
 
-1. Work in your normal AI-assisted workflow (Claude Code, Cursor, Codex,
-   or any other tool)
-2. When finished, run `./end.sh`
+The coding challenge is followed immediately by a 15-minute live Q&A
+with your interviewer.
 
 ## Maintainer notes
 
