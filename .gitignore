@@ -1,0 +1,18 @@
+# Node / Vite outputs
+node_modules/
+dist/
+.vite/
+
+# Test and coverage outputs
+coverage/
+
+# Local machine/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local secrets/config overrides
+.env
+.env.*
+!.env.example

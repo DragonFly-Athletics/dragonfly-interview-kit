@@ -1,0 +1,6345 @@
+{
+  "generatedOn": "2026-09-16",
+  "seasonYear": 2026,
+  "association": {
+    "id": "assoc-lakeshore",
+    "name": "Lakeshore Interscholastic Association",
+    "stateCode": "LK"
+  },
+  "orgs": [
+    {
+      "id": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "name": "Tri-County Officials Association"
+    },
+    {
+      "id": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "name": "River Valley Officials Association"
+    },
+    {
+      "id": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "name": "Cedar Ridge Officials Association"
+    }
+  ],
+  "schools": [
+    {
+      "id": "school-northgate",
+      "name": "Northgate High School"
+    },
+    {
+      "id": "school-riverbend",
+      "name": "Riverbend High School"
+    },
+    {
+      "id": "school-cedar-hill",
+      "name": "Cedar Hill High School"
+    },
+    {
+      "id": "school-maple-grove",
+      "name": "Maple Grove High School"
+    },
+    {
+      "id": "school-fort-lennox",
+      "name": "Fort Lennox High School"
+    }
+  ],
+  "officials": [
+    {
+      "id": "official-001",
+      "firstName": "Cole",
+      "lastName": "Mbeki",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-002",
+      "firstName": "Maya",
+      "lastName": "Brennan",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-003",
+      "firstName": "Sydney",
+      "lastName": "Halloran",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-004",
+      "firstName": "Elise",
+      "lastName": "Sandoval",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-005",
+      "firstName": "Luca",
+      "lastName": "Nguyen",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-006",
+      "firstName": "Tanner",
+      "lastName": "Ivey",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-007",
+      "firstName": "Avery",
+      "lastName": "Fontaine",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-008",
+      "firstName": "Jordan",
+      "lastName": "Ortega",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-009",
+      "firstName": "Sydney",
+      "lastName": "Okafor",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-010",
+      "firstName": "Reese",
+      "lastName": "Ramsey",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-011",
+      "firstName": "Casey",
+      "lastName": "Draper",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-012",
+      "firstName": "Quinn",
+      "lastName": "Nguyen",
+      "orgId": "org-tri-county",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-013",
+      "firstName": "Avery",
+      "lastName": "Okafor",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-014",
+      "firstName": "Nia",
+      "lastName": "Sandoval",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-015",
+      "firstName": "Micah",
+      "lastName": "Nguyen",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-016",
+      "firstName": "Dante",
+      "lastName": "Ramsey",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-017",
+      "firstName": "Sydney",
+      "lastName": "Kirby",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-018",
+      "firstName": "Maya",
+      "lastName": "Ivey",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-019",
+      "firstName": "Iris",
+      "lastName": "Okafor",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-020",
+      "firstName": "Devon",
+      "lastName": "Amari",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-021",
+      "firstName": "Riley",
+      "lastName": "Whitfield",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-022",
+      "firstName": "Elise",
+      "lastName": "Halloran",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-023",
+      "firstName": "Jordan",
+      "lastName": "Petrov",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-024",
+      "firstName": "Sydney",
+      "lastName": "Petrov",
+      "orgId": "org-river-valley",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-025",
+      "firstName": "Tanner",
+      "lastName": "Draper",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-026",
+      "firstName": "Rowan",
+      "lastName": "Ortega",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-027",
+      "firstName": "Devon",
+      "lastName": "Ortega",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-028",
+      "firstName": "Nia",
+      "lastName": "Nguyen",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-029",
+      "firstName": "Sydney",
+      "lastName": "Mbeki",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-030",
+      "firstName": "Maya",
+      "lastName": "Vance",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-031",
+      "firstName": "Devon",
+      "lastName": "Ramsey",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-032",
+      "firstName": "Riley",
+      "lastName": "Ivey",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-033",
+      "firstName": "Reese",
+      "lastName": "Amari",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-034",
+      "firstName": "Elise",
+      "lastName": "Draper",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "A"
+    },
+    {
+      "id": "official-035",
+      "firstName": "Rowan",
+      "lastName": "Brennan",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    },
+    {
+      "id": "official-036",
+      "firstName": "Maya",
+      "lastName": "Sandoval",
+      "orgId": "org-cedar-ridge",
+      "associationId": "assoc-lakeshore",
+      "rank": "B"
+    }
+  ],
+  "games": [
+    {
+      "id": "game-001",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-03T20:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-002",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-northgate",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-02T19:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-003",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-20T19:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-004",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-06T19:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-005",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-02T18:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-006",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-12T19:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-007",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-20T18:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-008",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-02T20:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-009",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-03T19:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-010",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-01T21:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-011",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-northgate",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-21T21:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-012",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-01T21:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-013",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-24T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-014",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-10T19:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-015",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-09T21:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-016",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-26T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-017",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-31T18:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-018",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-northgate",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-23T20:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-019",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-08T18:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-020",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-13T18:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-021",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-13T20:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-022",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-19T18:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-023",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-29T20:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-024",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-23T20:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-025",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-18T18:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-026",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-05T20:30:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-027",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-18T20:30:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-028",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-08T20:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-029",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-02T19:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-030",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-24T18:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-031",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-28T20:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-032",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-15T18:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-033",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-25T20:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-034",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-30T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-035",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-06T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-036",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-northgate",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-21T18:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-037",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-15T20:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-038",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-northgate",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-28T18:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-039",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-01T19:30:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-040",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-03T21:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-041",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-02T21:00:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-042",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-24T18:30:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-043",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-03T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-044",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-07T18:00:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-045",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-14T18:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-046",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-northgate",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-31T21:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-047",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-23T18:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-048",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-27T19:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-049",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-10T19:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-050",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-northgate",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-03T21:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-051",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-northgate",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-25T18:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-052",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-06T20:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-053",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-31T20:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-054",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-northgate",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-04T18:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-055",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-01T20:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-056",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-northgate",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-29T21:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-057",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-01T19:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-058",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-26T18:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-059",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-06T19:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-060",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-fort-lennox",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-05T20:30:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-061",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Basketball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-08T19:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "R",
+        "U1",
+        "U2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-062",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-northgate",
+      "sport": "Football",
+      "level": "JV",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-22T21:00:00.000Z",
+      "crewSize": 4,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-063",
+      "homeSchoolId": "school-riverbend",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-02T21:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-064",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Volleyball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-03T21:00:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "R1",
+        "R2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-065",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-northgate",
+      "sport": "Football",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-27T20:00:00.000Z",
+      "crewSize": 5,
+      "positions": [
+        "R",
+        "U",
+        "LJ",
+        "HL",
+        "BJ"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-066",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-30T19:00:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-067",
+      "homeSchoolId": "school-northgate",
+      "awaySchoolId": "school-maple-grove",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-20T21:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-river-valley"
+    },
+    {
+      "id": "game-068",
+      "homeSchoolId": "school-cedar-hill",
+      "awaySchoolId": "school-northgate",
+      "sport": "Soccer",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-08-31T20:30:00.000Z",
+      "crewSize": 3,
+      "positions": [
+        "CR",
+        "AR1",
+        "AR2"
+      ],
+      "orgId": "org-tri-county"
+    },
+    {
+      "id": "game-069",
+      "homeSchoolId": "school-fort-lennox",
+      "awaySchoolId": "school-cedar-hill",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-09-20T19:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-cedar-ridge"
+    },
+    {
+      "id": "game-070",
+      "homeSchoolId": "school-maple-grove",
+      "awaySchoolId": "school-riverbend",
+      "sport": "Baseball",
+      "level": "Varsity",
+      "seasonYear": 2026,
+      "startsAt": "2026-10-04T20:30:00.000Z",
+      "crewSize": 2,
+      "positions": [
+        "PU",
+        "BU"
+      ],
+      "orgId": "org-tri-county"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "assignment-001",
+      "gameId": "game-001",
+      "officialId": "official-007",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-07T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-09T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-11T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-12T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-15T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-002",
+      "gameId": "game-001",
+      "officialId": "official-012",
+      "position": "U",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-20T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-003",
+      "gameId": "game-001",
+      "officialId": "official-004",
+      "position": "LJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-20T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-004",
+      "gameId": "game-001",
+      "officialId": "official-011",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-005",
+      "gameId": "game-002",
+      "officialId": "official-029",
+      "position": "R1",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-16T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-17T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-006",
+      "gameId": "game-002",
+      "officialId": "official-025",
+      "position": "R2",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-17T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-007",
+      "gameId": "game-003",
+      "officialId": "official-002",
+      "position": "CR",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-30T05:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-008",
+      "gameId": "game-003",
+      "officialId": "official-005",
+      "position": "AR1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-29T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-009",
+      "gameId": "game-004",
+      "officialId": "official-011",
+      "position": "R1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-12T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-14T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-010",
+      "gameId": "game-005",
+      "officialId": "official-005",
+      "position": "PU",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-14T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-19T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-011",
+      "gameId": "game-005",
+      "officialId": "official-007",
+      "position": "BU",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T00:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-012",
+      "gameId": "game-006",
+      "officialId": "official-011",
+      "position": "R",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-29T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-31T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-09-02T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-09-03T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-013",
+      "gameId": "game-006",
+      "officialId": "official-005",
+      "position": "U1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-25T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-30T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-014",
+      "gameId": "game-006",
+      "officialId": "official-007",
+      "position": "U2",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-19T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-22T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-23T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-24T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-015",
+      "gameId": "game-007",
+      "officialId": "official-002",
+      "position": "R",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-02T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-016",
+      "gameId": "game-007",
+      "officialId": "official-005",
+      "position": "U1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-24T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-25T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-017",
+      "gameId": "game-008",
+      "officialId": "official-008",
+      "position": "R",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-20T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-018",
+      "gameId": "game-008",
+      "officialId": "official-010",
+      "position": "U",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-13T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-019",
+      "gameId": "game-008",
+      "officialId": "official-011",
+      "position": "LJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-020",
+      "gameId": "game-008",
+      "officialId": "official-001",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-14T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-021",
+      "gameId": "game-009",
+      "officialId": "official-033",
+      "position": "R",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-09T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-12T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-12T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-022",
+      "gameId": "game-009",
+      "officialId": "official-031",
+      "position": "U",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-09T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-11T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-14T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-17T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-023",
+      "gameId": "game-009",
+      "officialId": "official-025",
+      "position": "LJ",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-07T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-08T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-09T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-024",
+      "gameId": "game-010",
+      "officialId": "official-025",
+      "position": "PU",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-07T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-08T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-09T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-09T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-12T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-025",
+      "gameId": "game-010",
+      "officialId": "official-031",
+      "position": "BU",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-19T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-20T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-22T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-026",
+      "gameId": "game-011",
+      "officialId": "official-014",
+      "position": "PU",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-02T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-04T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-027",
+      "gameId": "game-011",
+      "officialId": "official-020",
+      "position": "BU",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-30T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-01T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-028",
+      "gameId": "game-012",
+      "officialId": "official-010",
+      "position": "CR",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-14T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-17T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-029",
+      "gameId": "game-012",
+      "officialId": "official-003",
+      "position": "AR1",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-09T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-030",
+      "gameId": "game-012",
+      "officialId": "official-005",
+      "position": "AR2",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-13T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-13T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-031",
+      "gameId": "game-013",
+      "officialId": "official-032",
+      "position": "R",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-29T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-31T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-032",
+      "gameId": "game-013",
+      "officialId": "official-030",
+      "position": "U",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-01T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-033",
+      "gameId": "game-013",
+      "officialId": "official-036",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-05T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-06T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-034",
+      "gameId": "game-013",
+      "officialId": "official-028",
+      "position": "HL",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-07T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-035",
+      "gameId": "game-013",
+      "officialId": "official-025",
+      "position": "BJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-29T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-30T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-036",
+      "gameId": "game-014",
+      "officialId": "official-027",
+      "position": "CR",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-27T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-31T00:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-037",
+      "gameId": "game-014",
+      "officialId": "official-033",
+      "position": "AR1",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-20T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-22T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-24T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-038",
+      "gameId": "game-014",
+      "officialId": "official-034",
+      "position": "AR2",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-039",
+      "gameId": "game-015",
+      "officialId": "official-017",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-21T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-22T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-23T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-25T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-040",
+      "gameId": "game-015",
+      "officialId": "official-019",
+      "position": "U1",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-20T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-041",
+      "gameId": "game-015",
+      "officialId": "official-013",
+      "position": "U2",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-18T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-21T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-21T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-042",
+      "gameId": "game-016",
+      "officialId": "official-018",
+      "position": "R",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-02T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-03T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-043",
+      "gameId": "game-016",
+      "officialId": "official-016",
+      "position": "U",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-12T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-15T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-044",
+      "gameId": "game-016",
+      "officialId": "official-020",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-045",
+      "gameId": "game-016",
+      "officialId": "official-019",
+      "position": "HL",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-31T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-02T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-046",
+      "gameId": "game-017",
+      "officialId": "official-023",
+      "position": "R1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-14T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-20T20:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-047",
+      "gameId": "game-018",
+      "officialId": "official-013",
+      "position": "CR",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-07T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-048",
+      "gameId": "game-018",
+      "officialId": "official-015",
+      "position": "AR1",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-049",
+      "gameId": "game-018",
+      "officialId": "official-020",
+      "position": "AR2",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-06T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-07T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-09T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-050",
+      "gameId": "game-019",
+      "officialId": "official-005",
+      "position": "R",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-21T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-051",
+      "gameId": "game-019",
+      "officialId": "official-006",
+      "position": "U1",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-18T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-20T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-21T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-052",
+      "gameId": "game-019",
+      "officialId": "official-003",
+      "position": "U2",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-053",
+      "gameId": "game-020",
+      "officialId": "official-010",
+      "position": "CR",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-24T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-26T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-054",
+      "gameId": "game-020",
+      "officialId": "official-011",
+      "position": "AR1",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-19T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-21T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-23T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-055",
+      "gameId": "game-020",
+      "officialId": "official-004",
+      "position": "AR2",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-27T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-29T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-056",
+      "gameId": "game-021",
+      "officialId": "official-033",
+      "position": "PU",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-22T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-24T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-25T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-057",
+      "gameId": "game-021",
+      "officialId": "official-025",
+      "position": "BU",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-23T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-26T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-058",
+      "gameId": "game-022",
+      "officialId": "official-027",
+      "position": "R",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-25T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-26T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-059",
+      "gameId": "game-022",
+      "officialId": "official-034",
+      "position": "U",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-26T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-31T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-060",
+      "gameId": "game-022",
+      "officialId": "official-035",
+      "position": "LJ",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-31T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-01T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-061",
+      "gameId": "game-022",
+      "officialId": "official-033",
+      "position": "HL",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-062",
+      "gameId": "game-022",
+      "officialId": "official-028",
+      "position": "BJ",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-08T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-10T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-063",
+      "gameId": "game-023",
+      "officialId": "official-011",
+      "position": "CR",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-064",
+      "gameId": "game-023",
+      "officialId": "official-007",
+      "position": "AR1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-065",
+      "gameId": "game-023",
+      "officialId": "official-009",
+      "position": "AR2",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-07T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-066",
+      "gameId": "game-024",
+      "officialId": "official-031",
+      "position": "R",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-29T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-067",
+      "gameId": "game-024",
+      "officialId": "official-033",
+      "position": "U",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-07T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-11T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-068",
+      "gameId": "game-024",
+      "officialId": "official-025",
+      "position": "LJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-09T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-10T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-11T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-069",
+      "gameId": "game-024",
+      "officialId": "official-027",
+      "position": "HL",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-11T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-070",
+      "gameId": "game-024",
+      "officialId": "official-029",
+      "position": "BJ",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-04T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-071",
+      "gameId": "game-025",
+      "officialId": "official-030",
+      "position": "R",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-25T00:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-072",
+      "gameId": "game-025",
+      "officialId": "official-032",
+      "position": "U",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-073",
+      "gameId": "game-025",
+      "officialId": "official-027",
+      "position": "LJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-01T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-074",
+      "gameId": "game-025",
+      "officialId": "official-031",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-29T09:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-075",
+      "gameId": "game-025",
+      "officialId": "official-026",
+      "position": "BJ",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-05T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-076",
+      "gameId": "game-026",
+      "officialId": "official-032",
+      "position": "R",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-16T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-19T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-19T20:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-077",
+      "gameId": "game-026",
+      "officialId": "official-034",
+      "position": "U",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-14T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-16T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-078",
+      "gameId": "game-026",
+      "officialId": "official-028",
+      "position": "LJ",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-15T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-16T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-079",
+      "gameId": "game-026",
+      "officialId": "official-030",
+      "position": "HL",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-17T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-080",
+      "gameId": "game-027",
+      "officialId": "official-022",
+      "position": "R",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-081",
+      "gameId": "game-027",
+      "officialId": "official-018",
+      "position": "U",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-04T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-082",
+      "gameId": "game-027",
+      "officialId": "official-015",
+      "position": "LJ",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-30T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-31T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-083",
+      "gameId": "game-027",
+      "officialId": "official-020",
+      "position": "HL",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-30T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-01T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-04T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-084",
+      "gameId": "game-028",
+      "officialId": "official-032",
+      "position": "PU",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-23T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-25T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-27T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-29T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-30T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-085",
+      "gameId": "game-028",
+      "officialId": "official-035",
+      "position": "BU",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-21T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-23T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-26T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-26T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-086",
+      "gameId": "game-029",
+      "officialId": "official-015",
+      "position": "R",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-17T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-18T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-20T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-087",
+      "gameId": "game-029",
+      "officialId": "official-020",
+      "position": "U1",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-18T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-20T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-21T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-088",
+      "gameId": "game-029",
+      "officialId": "official-022",
+      "position": "U2",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-089",
+      "gameId": "game-030",
+      "officialId": "official-034",
+      "position": "PU",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-090",
+      "gameId": "game-031",
+      "officialId": "official-004",
+      "position": "R",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-12T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-14T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-091",
+      "gameId": "game-031",
+      "officialId": "official-001",
+      "position": "U1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-13T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-092",
+      "gameId": "game-031",
+      "officialId": "official-002",
+      "position": "U2",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-093",
+      "gameId": "game-032",
+      "officialId": "official-036",
+      "position": "PU",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-24T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-24T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-25T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-094",
+      "gameId": "game-032",
+      "officialId": "official-033",
+      "position": "BU",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-23T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-25T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-095",
+      "gameId": "game-033",
+      "officialId": "official-012",
+      "position": "R1",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-06T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-096",
+      "gameId": "game-034",
+      "officialId": "official-006",
+      "position": "R",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-11T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-13T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-15T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-097",
+      "gameId": "game-034",
+      "officialId": "official-011",
+      "position": "U",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-098",
+      "gameId": "game-034",
+      "officialId": "official-009",
+      "position": "LJ",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-14T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-099",
+      "gameId": "game-034",
+      "officialId": "official-005",
+      "position": "HL",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-04T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T18:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-100",
+      "gameId": "game-034",
+      "officialId": "official-007",
+      "position": "BJ",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-03T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-101",
+      "gameId": "game-035",
+      "officialId": "official-031",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-23T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-25T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-27T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-29T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-31T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-102",
+      "gameId": "game-035",
+      "officialId": "official-027",
+      "position": "U",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-19T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-103",
+      "gameId": "game-035",
+      "officialId": "official-026",
+      "position": "LJ",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-104",
+      "gameId": "game-035",
+      "officialId": "official-036",
+      "position": "HL",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-10T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-11T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-13T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-14T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-15T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-105",
+      "gameId": "game-036",
+      "officialId": "official-002",
+      "position": "PU",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-01T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-03T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T05:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-106",
+      "gameId": "game-037",
+      "officialId": "official-029",
+      "position": "R",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-22T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-23T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-24T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-26T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-107",
+      "gameId": "game-037",
+      "officialId": "official-034",
+      "position": "U",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-25T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-27T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-29T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-29T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-09-01T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-108",
+      "gameId": "game-037",
+      "officialId": "official-025",
+      "position": "LJ",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-29T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-29T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-31T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-09-03T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-109",
+      "gameId": "game-037",
+      "officialId": "official-027",
+      "position": "HL",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-29T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-01T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-09-01T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-09-02T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-110",
+      "gameId": "game-038",
+      "officialId": "official-003",
+      "position": "R1",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-01T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-03T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-04T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-111",
+      "gameId": "game-039",
+      "officialId": "official-009",
+      "position": "R",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-16T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-17T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-112",
+      "gameId": "game-039",
+      "officialId": "official-008",
+      "position": "U",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-16T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-19T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-21T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-113",
+      "gameId": "game-039",
+      "officialId": "official-003",
+      "position": "LJ",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-13T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-14T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-114",
+      "gameId": "game-039",
+      "officialId": "official-006",
+      "position": "HL",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-13T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-115",
+      "gameId": "game-040",
+      "officialId": "official-009",
+      "position": "R1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-20T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-22T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-22T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-25T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-27T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-116",
+      "gameId": "game-040",
+      "officialId": "official-008",
+      "position": "R2",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-13T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-19T04:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-117",
+      "gameId": "game-041",
+      "officialId": "official-025",
+      "position": "R",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-06T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-07T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-118",
+      "gameId": "game-041",
+      "officialId": "official-026",
+      "position": "U",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-09T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-10T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-12T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-119",
+      "gameId": "game-041",
+      "officialId": "official-035",
+      "position": "LJ",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-14T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-17T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-18T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-120",
+      "gameId": "game-041",
+      "officialId": "official-027",
+      "position": "HL",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-07T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-08T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-10T18:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-121",
+      "gameId": "game-041",
+      "officialId": "official-031",
+      "position": "BJ",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-11T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-13T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-16T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-122",
+      "gameId": "game-042",
+      "officialId": "official-007",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-01T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-02T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-123",
+      "gameId": "game-042",
+      "officialId": "official-003",
+      "position": "U",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-09T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-09T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-124",
+      "gameId": "game-043",
+      "officialId": "official-026",
+      "position": "R",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-18T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-125",
+      "gameId": "game-043",
+      "officialId": "official-028",
+      "position": "U",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-126",
+      "gameId": "game-043",
+      "officialId": "official-030",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-19T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-20T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-23T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-25T09:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-127",
+      "gameId": "game-043",
+      "officialId": "official-034",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-20T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-21T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-23T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-26T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-128",
+      "gameId": "game-043",
+      "officialId": "official-032",
+      "position": "BJ",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-20T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-22T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-129",
+      "gameId": "game-044",
+      "officialId": "official-035",
+      "position": "R",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-18T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-20T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-130",
+      "gameId": "game-044",
+      "officialId": "official-025",
+      "position": "U",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-23T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-25T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-26T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-27T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-131",
+      "gameId": "game-044",
+      "officialId": "official-028",
+      "position": "LJ",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-18T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-132",
+      "gameId": "game-044",
+      "officialId": "official-026",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-23T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-24T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-25T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-27T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-133",
+      "gameId": "game-044",
+      "officialId": "official-032",
+      "position": "BJ",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-13T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-17T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-134",
+      "gameId": "game-045",
+      "officialId": "official-018",
+      "position": "R1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-26T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-29T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-135",
+      "gameId": "game-045",
+      "officialId": "official-022",
+      "position": "R2",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-24T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-25T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-27T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-30T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-30T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-136",
+      "gameId": "game-046",
+      "officialId": "official-018",
+      "position": "R",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-10T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-12T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-13T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-16T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-137",
+      "gameId": "game-046",
+      "officialId": "official-022",
+      "position": "U",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-10T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-11T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-13T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T04:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-138",
+      "gameId": "game-046",
+      "officialId": "official-017",
+      "position": "LJ",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-19T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-21T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-23T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-139",
+      "gameId": "game-046",
+      "officialId": "official-013",
+      "position": "HL",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-09T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-11T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-13T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-140",
+      "gameId": "game-047",
+      "officialId": "official-028",
+      "position": "CR",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-28T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-30T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-141",
+      "gameId": "game-047",
+      "officialId": "official-034",
+      "position": "AR1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-31T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-142",
+      "gameId": "game-047",
+      "officialId": "official-029",
+      "position": "AR2",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-143",
+      "gameId": "game-048",
+      "officialId": "official-011",
+      "position": "R",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-144",
+      "gameId": "game-049",
+      "officialId": "official-013",
+      "position": "R",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-25T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-27T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-145",
+      "gameId": "game-049",
+      "officialId": "official-024",
+      "position": "U1",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-18T20:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-146",
+      "gameId": "game-049",
+      "officialId": "official-021",
+      "position": "U2",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-25T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-27T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-29T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-31T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-147",
+      "gameId": "game-050",
+      "officialId": "official-033",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-148",
+      "gameId": "game-050",
+      "officialId": "official-032",
+      "position": "U",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-12T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-13T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-149",
+      "gameId": "game-050",
+      "officialId": "official-028",
+      "position": "LJ",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-17T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-150",
+      "gameId": "game-050",
+      "officialId": "official-029",
+      "position": "HL",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-10T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-12T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-15T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-151",
+      "gameId": "game-051",
+      "officialId": "official-011",
+      "position": "R",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-09T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-10T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-12T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-152",
+      "gameId": "game-051",
+      "officialId": "official-004",
+      "position": "U",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-02T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-03T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-153",
+      "gameId": "game-051",
+      "officialId": "official-003",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T09:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-154",
+      "gameId": "game-052",
+      "officialId": "official-019",
+      "position": "R",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-23T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-24T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-25T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-27T01:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-155",
+      "gameId": "game-052",
+      "officialId": "official-024",
+      "position": "U1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-19T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-22T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-23T03:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-23T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-156",
+      "gameId": "game-052",
+      "officialId": "official-016",
+      "position": "U2",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-19T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-21T03:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-157",
+      "gameId": "game-053",
+      "officialId": "official-035",
+      "position": "R",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-13T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-158",
+      "gameId": "game-053",
+      "officialId": "official-027",
+      "position": "U",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-13T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-14T17:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-17T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-159",
+      "gameId": "game-053",
+      "officialId": "official-032",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-08T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-11T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-11T23:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-14T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-15T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-160",
+      "gameId": "game-053",
+      "officialId": "official-025",
+      "position": "HL",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-04T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-06T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-07T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-08T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-161",
+      "gameId": "game-053",
+      "officialId": "official-034",
+      "position": "BJ",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-05T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-06T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-07T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-08T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-09T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-162",
+      "gameId": "game-054",
+      "officialId": "official-013",
+      "position": "R1",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-11T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-14T00:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-163",
+      "gameId": "game-055",
+      "officialId": "official-028",
+      "position": "R1",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-07T09:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-164",
+      "gameId": "game-056",
+      "officialId": "official-019",
+      "position": "PU",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-12T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-14T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-15T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-16T12:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-165",
+      "gameId": "game-056",
+      "officialId": "official-024",
+      "position": "BU",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T21:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-20T00:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-166",
+      "gameId": "game-057",
+      "officialId": "official-018",
+      "position": "PU",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-167",
+      "gameId": "game-058",
+      "officialId": "official-005",
+      "position": "R",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-03T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-04T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-05T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-168",
+      "gameId": "game-058",
+      "officialId": "official-012",
+      "position": "U",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-06T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-06T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-07T06:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-169",
+      "gameId": "game-059",
+      "officialId": "official-031",
+      "position": "CR",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-10T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-12T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-09-12T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-170",
+      "gameId": "game-059",
+      "officialId": "official-028",
+      "position": "AR1",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-11T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-13T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-171",
+      "gameId": "game-060",
+      "officialId": "official-014",
+      "position": "R",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T06:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-172",
+      "gameId": "game-060",
+      "officialId": "official-021",
+      "position": "U",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-22T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-23T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-173",
+      "gameId": "game-060",
+      "officialId": "official-019",
+      "position": "LJ",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-18T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-20T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-22T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-24T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-25T21:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-174",
+      "gameId": "game-060",
+      "officialId": "official-015",
+      "position": "HL",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-16T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-18T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-21T01:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-21T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-22T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-175",
+      "gameId": "game-060",
+      "officialId": "official-024",
+      "position": "BJ",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-11T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-18T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-176",
+      "gameId": "game-061",
+      "officialId": "official-025",
+      "position": "R",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-14T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-177",
+      "gameId": "game-061",
+      "officialId": "official-033",
+      "position": "U1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-17T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-19T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-21T09:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-178",
+      "gameId": "game-061",
+      "officialId": "official-036",
+      "position": "U2",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-14T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-18T22:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-19T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-179",
+      "gameId": "game-062",
+      "officialId": "official-021",
+      "position": "R",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-02T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-03T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-180",
+      "gameId": "game-062",
+      "officialId": "official-015",
+      "position": "U",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-26T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T07:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-181",
+      "gameId": "game-063",
+      "officialId": "official-030",
+      "position": "PU",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-15T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-17T00:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-17T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-18T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-20T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-182",
+      "gameId": "game-063",
+      "officialId": "official-029",
+      "position": "BU",
+      "feeCents": 3500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T10:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-15T05:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-15T18:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-16T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-16T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-183",
+      "gameId": "game-064",
+      "officialId": "official-009",
+      "position": "R1",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-19T15:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-184",
+      "gameId": "game-065",
+      "officialId": "official-025",
+      "position": "R",
+      "feeCents": 5250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-06T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-07T07:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-09T17:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-185",
+      "gameId": "game-065",
+      "officialId": "official-027",
+      "position": "U",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-13T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-16T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-16T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-17T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-19T04:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-186",
+      "gameId": "game-065",
+      "officialId": "official-034",
+      "position": "LJ",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-07-31T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-07-31T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-03T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-03T14:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-187",
+      "gameId": "game-065",
+      "officialId": "official-032",
+      "position": "HL",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-07-31T13:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-02T19:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-04T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-04T20:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Paid",
+          "changedAt": "2026-08-05T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-188",
+      "gameId": "game-065",
+      "officialId": "official-029",
+      "position": "BJ",
+      "feeCents": 3750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-07T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-08T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-09T04:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-10T04:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-189",
+      "gameId": "game-066",
+      "officialId": "official-033",
+      "position": "CR",
+      "feeCents": 4250,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-06T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-08T11:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-190",
+      "gameId": "game-066",
+      "officialId": "official-031",
+      "position": "AR1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-13T10:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-191",
+      "gameId": "game-066",
+      "officialId": "official-032",
+      "position": "AR2",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-08T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-192",
+      "gameId": "game-067",
+      "officialId": "official-019",
+      "position": "CR",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-26T12:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T02:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-28T19:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-193",
+      "gameId": "game-067",
+      "officialId": "official-017",
+      "position": "AR1",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-24T16:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-27T08:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-27T18:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-194",
+      "gameId": "game-067",
+      "officialId": "official-015",
+      "position": "AR2",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-26T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-28T22:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-195",
+      "gameId": "game-068",
+      "officialId": "official-009",
+      "position": "CR",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-04T15:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-06T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Confirmed",
+          "changedAt": "2026-08-08T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Worked",
+          "changedAt": "2026-08-09T05:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-196",
+      "gameId": "game-069",
+      "officialId": "official-035",
+      "position": "PU",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-05T11:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-07T08:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-197",
+      "gameId": "game-069",
+      "officialId": "official-033",
+      "position": "BU",
+      "feeCents": 4000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-08-27T09:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-08-30T02:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-198",
+      "gameId": "game-070",
+      "officialId": "official-002",
+      "position": "PU",
+      "feeCents": 4500,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-11T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-199",
+      "gameId": "game-070",
+      "officialId": "official-007",
+      "position": "BU",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-20T14:00:00.000Z",
+          "changedBy": "seed"
+        },
+        {
+          "stage": "Accepted",
+          "changedAt": "2026-09-22T23:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-200",
+      "gameId": "game-012",
+      "officialId": "official-006",
+      "position": "ALT",
+      "feeCents": 4750,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-04T16:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    },
+    {
+      "id": "assignment-201",
+      "gameId": "game-024",
+      "officialId": "official-034",
+      "position": "ALT",
+      "feeCents": 5000,
+      "statusHistory": [
+        {
+          "stage": "Offered",
+          "changedAt": "2026-09-08T13:00:00.000Z",
+          "changedBy": "seed"
+        }
+      ]
+    }
+  ]
+}
